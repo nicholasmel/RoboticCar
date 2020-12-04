@@ -1,8 +1,8 @@
 # RoboticCar
 
-*Nicholas Mel
+*Nicholas Mel*
 
-**Autonmous Robotic Car
+**Autonmous Robotic Car**
 
 - Arduino Mega 2560
 - LCD + keypad
