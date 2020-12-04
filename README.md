@@ -1,10 +1,11 @@
-## RoboticCar
+# RoboticCar
 
-Nicholas Mel
+*Nicholas Mel
 
-Autonmous Robotic Car:
- -Arduino Mega 2560
- -LCD + keypad
- -BNO055 IMU sensor
- -GPS Module
+**Autonmous Robotic Car
+
+- Arduino Mega 2560
+- LCD + keypad
+- BNO055 IMU sensor
+- GPS Module
 
